@@ -1,0 +1,205 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+}
+/* /////// Top Container //////// */
+
+h1 {
+    padding-top: 90px;
+    font-size: 3.2rem;
+    color: #66BFBF;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h4 {
+    padding-top: 15px;
+    font-size: 1.2rem;
+    color: #66BFBF;
+}
+
+.top-container {
+    height: 620px;
+    background-color: #EAF6F6;
+}
+
+.top-div1 {
+    height: 50%;
+    position: relative;
+}
+
+.top-cloud {
+    position: absolute;
+    top: 20px;
+    right: 300px;
+}
+
+.top-div2 {
+    position: relative;
+    height: auto;
+}
+
+.bottom-cloud {
+    position: absolute;
+    bottom: 250px;
+    left: 150px;
+}
+
+/* /////// Mid Container //////// */
+
+.myImage {
+    width: 12%;
+}
+
+.myImageDiv { 
+    padding-top: 50px;
+}
+
+.Mid-container {
+    height: 500px;
+}
+
+.Hello {
+    padding: 30px 0 40px 0;
+    font-size: 2.2rem;
+    color: #66BFBF;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Mid-container-text {
+    width: 30%;
+    margin: auto; 
+}
+
+.MidDivText {
+    color: #40514E;
+}
+
+.borderDiv {
+    padding: 70px 0;
+}
+
+.border {
+    border: 3px dotted #b6bbbb;
+    border-style: dotted none none none ;
+    width: 3%;
+    margin: auto;
+}
+
+/* ////////// My Skills Container /////////// */
+
+.Skills {
+    font-size: 2.2rem;
+    color: #66BFBF;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 30px;
+   
+}
+
+.Skill-div1, .Skill-div2 {
+    display: flex;
+    width: 50%;
+    margin: 60px auto 60px auto;
+}
+
+.skillstext {
+    color: #40514E;
+}
+
+.Image1 {
+    width: 72%;
+}
+
+.Image2 {
+    width: 58%;
+}
+
+.skillsTextDiv1 {
+    text-align: left;
+}
+
+.skillsTextDiv2 {
+    text-align: left;
+    margin-left:20px ;
+}
+
+.skillsHeading {
+    padding-bottom: 20px;
+    color: #11999E;
+    font-size: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.border1 {
+    border: 3px dotted #b6bbbb;
+    border-style: dotted none none none ;
+   
+    width: 3%;
+    margin: auto;
+}
+
+/* //////// Contact Container ////////// */
+
+.ContactDiv {
+    width:35%;
+    margin: 60px auto;
+}
+
+.GetInTouch {
+    color: #66BFBF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+}
+
+.contactHeading {
+    line-height: 70px;
+    color: #11999E;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+}
+
+.contactText {
+    color: #40514E;
+}
+
+.contactButton {
+    padding: 8px 12px;
+    background-color:#66BFBF;
+    border-radius: 5px;
+    border-style: hidden;
+    color: white;
+    margin-top: 40px;
+}
+
+.contactButton:hover {
+    background-color:#11999E ;
+}
+
+/* /////// Bottom Container /////// */
+
+.bottom-Container {
+    background-color:#66BFBF;
+    padding: 40px 0 40px 0;
+}
+
+.bottomDiv1 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.Links {
+    margin: 0 20px;
+    color: #11999E;
+}
+
+.BottomText {
+    font-size: 0.8rem;
+    color: #EAF6F6;
+}
+
+
+
